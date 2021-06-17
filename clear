@@ -1,0 +1,61 @@
+[33mcommit 3ec3801b702a44578d1a92c32fa02c368c136193[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Thu Jun 17 10:29:45 2021 +0530
+
+    x1
+
+[33mcommit e76324da87fc2e969ef96c946fe28f98ee167e18[m[33m ([m[1;33mtag: appv2[m[33m)[m
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Thu Jun 17 10:29:02 2021 +0530
+
+    z1
+
+[33mcommit 2dd1db8d31ff02f61a09fadf8f10cb2fb3417d0b[m[33m ([m[1;33mtag: appv1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Wed Jun 2 17:52:20 2021 +0530
+
+    .gitignore
+    git commit -m.gitignoreclear
+
+[33mcommit d83ea22a7dfdfe98cb73edf133f8be045e63c512[m
+Merge: 2b0249d cbe4225
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Wed Jun 2 17:21:35 2021 +0530
+
+    Merge branch 'main' of https://github.com/ramchandercp/devopsrepo
+
+[33mcommit 2b0249de232a2f8b96174f68918e369767aad850[m
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Wed Jun 2 17:19:39 2021 +0530
+
+    m5
+
+[33mcommit cbe4225c2a963dd2ac1b015f0a1354411c894c94[m
+Author: ramchandercp <85228071+ramchandercp@users.noreply.github.com>
+Date:   Wed Jun 2 17:18:04 2021 +0530
+
+    m4
+
+[33mcommit c9291ae0aeb409989c0ec79ae311d09a9ebd7c23[m
+Author: rammchander <ramchanderreddycp@gmail.com>
+Date:   Wed Jun 2 16:56:34 2021 +0530
+
+    m3
+
+[33mcommit 44ee514cfa3013b1323a1774dc96be6815796e7c[m
+Author: ramchandercp <85228071+ramchandercp@users.noreply.github.com>
+Date:   Wed Jun 2 16:50:00 2021 +0530
+
+    m2
+
+[33mcommit caeda379a293173b17f9d82da6b75dc3a1b8a397[m
+Author: ramchandercp <85228071+ramchandercp@users.noreply.github.com>
+Date:   Wed Jun 2 16:49:34 2021 +0530
+
+    m1
+
+[33mcommit 0bbcc6a542c3578379da9c6cd71f08211301bcde[m
+Author: ramchandercp <85228071+ramchandercp@users.noreply.github.com>
+Date:   Wed Jun 2 16:10:57 2021 +0530
+
+    Initial commit
